@@ -1,0 +1,354 @@
+{
+    "items": [
+        {
+            "name": "Notebook",
+            "type": "food",
+            "effect": 8,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Ammunition",
+            "type": "money",
+            "effect": 2,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Compass",
+            "type": "food",
+            "effect": 1,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Water Purification Tablets",
+            "type": "health",
+            "effect": 6,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Insect Repellent",
+            "type": "food",
+            "effect": 7,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Firestarter",
+            "type": "health",
+            "effect": 5,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Sunscreen",
+            "type": "map",
+            "effect": 7,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Tarp",
+            "type": "weapon",
+            "effect": 4,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "First Aid Kit",
+            "type": "health",
+            "effect": 4,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Water Purification Tablets",
+            "type": "weapon",
+            "effect": 9,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Hatchet",
+            "type": "health",
+            "effect": 7,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Bandage",
+            "type": "food",
+            "effect": 7,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Matches",
+            "type": "weapon",
+            "effect": 2,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Multitool",
+            "type": "food",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Emergency Whistle",
+            "type": "map",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Hand Warmers",
+            "type": "weapon",
+            "effect": 2,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Whistle",
+            "type": "map",
+            "effect": 1,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Battery",
+            "type": "health",
+            "effect": 8,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Whistle",
+            "type": "map",
+            "effect": 3,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Battery",
+            "type": "money",
+            "effect": 1,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Water Purification Tablets",
+            "type": "money",
+            "effect": 3,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Medicine",
+            "type": "weapon",
+            "effect": 6,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Sleeping Bag",
+            "type": "money",
+            "effect": 4,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Solar Charger",
+            "type": "health",
+            "effect": 8,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Water Purification Tablets",
+            "type": "weapon",
+            "effect": 3,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Flashlight",
+            "type": "weapon",
+            "effect": 3,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Knife",
+            "type": "weapon",
+            "effect": 4,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Pencil",
+            "type": "money",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Ammunition",
+            "type": "food",
+            "effect": 9,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Sleeping Bag",
+            "type": "weapon",
+            "effect": 7,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Hand Warmers",
+            "type": "money",
+            "effect": 2,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Water Purification Tablets",
+            "type": "health",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Signal Mirror",
+            "type": "money",
+            "effect": 5,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Matches",
+            "type": "money",
+            "effect": 6,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Bug Spray",
+            "type": "weapon",
+            "effect": 4,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Duct Tape",
+            "type": "money",
+            "effect": 9,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Sewing Kit",
+            "type": "food",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Rope",
+            "type": "food",
+            "effect": 5,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Signal Mirror",
+            "type": "food",
+            "effect": 6,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Compass",
+            "type": "food",
+            "effect": 3,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Multitool",
+            "type": "health",
+            "effect": 8,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Binoculars",
+            "type": "food",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Sunglasses",
+            "type": "money",
+            "effect": 2,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Hand Warmers",
+            "type": "map",
+            "effect": 10,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Lighter",
+            "type": "money",
+            "effect": 2,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Blanket",
+            "type": "money",
+            "effect": 8,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "First Aid Kit",
+            "type": "money",
+            "effect": 9,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        },
+        {
+            "name": "Gloves",
+            "type": "weapon",
+            "effect": 6,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Compass",
+            "type": "food",
+            "effect": 9,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": false
+        },
+        {
+            "name": "Matches",
+            "type": "food",
+            "effect": 4,
+            "passive_effect": 0,
+            "drop_at_start_of_next_day": true
+        }
+    ]
+}
